@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Grand Prix — Mobile F1 Simulator",
+  "description": "Realistic Android & Mobile F1 Formula Racing Simulator with true cockpit view, dynamic weather, telemetry HUD, 20 AI drivers, and multi-track grand prix racing.",
+  "requestFramePermissions": ["accelerometer", "gyroscope"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
